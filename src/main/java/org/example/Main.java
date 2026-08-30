@@ -5,6 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello Maven + Git");
+        System.out.println("Hello Maven + Git - Discount");
     }
 }
